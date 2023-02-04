@@ -1,2 +1,11 @@
+# Ignore list for Eagle, a PCB layout tool
+
+# Backup files
+*.s#?
+
+# File Types
+
 *.csv
-*csv
+
+password.txt
+
